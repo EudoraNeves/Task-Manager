@@ -12,6 +12,7 @@ const Header = ({ title, onAdd, showAddBtn }) => {
   )
 }
 
+
 Header.defaultProps = {
     title: 'Task Manager',
 }
